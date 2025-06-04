@@ -154,10 +154,15 @@ You can open the CSV file with Excel, Google Sheets, or Python to perform furthe
 ## 📁 Project Structure
 
 imdb-tv-show-scraper/
+
 ├── main.py                  # Scraper script
+
 ├── imdb_top_tv_shows.csv    # Output CSV file
+
 ├── requirements.txt         # Python dependencies
+
 ├── .gitignore
+
 └── README.md
 
 ---
