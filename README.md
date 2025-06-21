@@ -4,7 +4,7 @@ This Python project scrapes IMDb's Top Rated TV Shows, extracts key information 
 
 ## 📚 Table of Contents
 
-- [Why Python for Web Scraping](https://github.com/Ashutosh-Dubal/imdb-tv-show-scraper?tab=readme-ov-file#why-python-for-web-scraping)
+- [Why Python for Web Scraping](https://github.com/Ashutosh-Dubal/imdb-tv-show-scraper?tab=readme-ov-file#-why-python-for-web-scraping)
 - [Challenges & Learnings](https://github.com/Ashutosh-Dubal/imdb-tv-show-scraper?tab=readme-ov-file#-challenges--learnings)
 - [How to Install and Run the Project](https://github.com/Ashutosh-Dubal/imdb-tv-show-scraper?tab=readme-ov-file#how-to-install-and-run-the-project)
 - [How to Use the Project](https://github.com/Ashutosh-Dubal/imdb-tv-show-scraper?tab=readme-ov-file#how-to-use-the-project)
