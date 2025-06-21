@@ -4,17 +4,17 @@ This Python project scrapes IMDb's Top Rated TV Shows, extracts key information 
 
 ## 📚 Table of Contents
 
-- [Why Python for Web Scraping](##-why-python-for-web-scraping)
-- [Challenges & Learnings](##-challenges--learnings)
-- [How to Install and Run the Project](##-how-to-install-and-run-the-project)
-- [How to Use the Project](##-how-to-use-the-project)
-- [Sample Output](##-sample-output)
-- [Features](##-features)
-- [Future Improvements](##-future-improvements)
-- [Tech Stack](##-tech-stack)
-- [Project Structure](##-project-structure)
+- [Why Python for Web Scraping](#why-python-for-web-scraping)
+- [Challenges & Learnings](#challenges--learnings)
+- [How to Install and Run the Project](#how-to-install-and-run-the-project)
+- [How to Use the Project](#how-to-use-the-project)
+- [Sample Output](#sample-output)
+- [Features](#features)
+- [Future Improvements](#future-improvements)
+- [Tech Stack](#tech-stack)
+- [Project Structure](#project-structure)
 - [Author](#author)
-- [License](##-license)
+- [License](#license)
 
 ## 🐍 Why Python for Web Scraping?
 
