@@ -4,17 +4,17 @@ This Python project scrapes IMDb's Top Rated TV Shows, extracts key information 
 
 ## 📚 Table of Contents
 
-- [Why Python for Web Scraping](#why-python-for-web-scraping)
-- [Challenges & Learnings](#challenges--learnings)
-- [How to Install and Run the Project](#how-to-install-and-run-the-project)
-- [How to Use the Project](#how-to-use-the-project)
-- [Sample Output](#sample-output)
-- [Features](#features)
-- [Future Improvements](#future-improvements)
-- [Tech Stack](#tech-stack)
-- [Project Structure](#project-structure)
-- [Author](#author)
-- [License](#license)
+- [Why Python for Web Scraping](https://github.com/Ashutosh-Dubal/imdb-tv-show-scraper?tab=readme-ov-file#why-python-for-web-scraping)
+- [Challenges & Learnings](https://github.com/Ashutosh-Dubal/imdb-tv-show-scraper?tab=readme-ov-file#-challenges--learnings)
+- [How to Install and Run the Project](https://github.com/Ashutosh-Dubal/imdb-tv-show-scraper?tab=readme-ov-file#how-to-install-and-run-the-project)
+- [How to Use the Project](https://github.com/Ashutosh-Dubal/imdb-tv-show-scraper?tab=readme-ov-file#how-to-use-the-project)
+- [Sample Output](https://github.com/Ashutosh-Dubal/imdb-tv-show-scraper?tab=readme-ov-file#sample-output)
+- [Features](https://github.com/Ashutosh-Dubal/imdb-tv-show-scraper?tab=readme-ov-file#features)
+- [Future Improvements](https://github.com/Ashutosh-Dubal/imdb-tv-show-scraper?tab=readme-ov-file#future-improvements)
+- [Tech Stack](https://github.com/Ashutosh-Dubal/imdb-tv-show-scraper?tab=readme-ov-file#tech-stack)
+- [Project Structure](https://github.com/Ashutosh-Dubal/imdb-tv-show-scraper?tab=readme-ov-file#project-structure)
+- [Author](https://github.com/Ashutosh-Dubal/imdb-tv-show-scraper?tab=readme-ov-file#author)
+- [License](https://github.com/Ashutosh-Dubal/imdb-tv-show-scraper?tab=readme-ov-file#license)
 
 ## 🐍 Why Python for Web Scraping?
 
